@@ -1,6 +1,5 @@
 ## Seja bem vinda(o)! 👋
 
-// README.md
 ![Github stats](https://github-readme-stats.vercel.app/api?username=ribafs&theme=highcontrast&show_icons=true&count_private=true)
 
 <!--
