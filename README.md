@@ -1,3 +1,5 @@
+<img src="https://avatars.githubusercontent.com/u/855200?v=4">RibaFS</a>
+
 ## Seja bem vinda(o)! 👋
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=ribafs&theme=highcontrast&show_icons=true&count_private=true)
