@@ -1,4 +1,4 @@
-<img src="https://avatars.githubusercontent.com/u/855200?v=4">RibaFS</a>
+<img src="https://avatars.githubusercontent.com/u/855200?v=4">.</a>
 
 ## Seja bem vinda(o)! 👋
 
