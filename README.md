@@ -9,6 +9,10 @@
 ```
 ## Seja bem vinda(o)! 👋
 
+<a href="https://github.com/Gurupreet">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanessaswerts&theme=dracula&hide_langs_below=1" />
+</a>
+
 ![Github stats](https://github-readme-stats.vercel.app/api?username=ribafs&theme=highcontrast&show_icons=true&count_private=true)
 
 
