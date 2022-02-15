@@ -19,3 +19,4 @@
 - 🤔 Estou colaborando e aprendendo em alguns grupos do Facebook
 
 ![](riba-ascii.png)
+Art ASCII de uma foto minha - https://funny.pho.to/pt/image-to-text-effect/
