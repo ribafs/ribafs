@@ -15,6 +15,5 @@
 - 🔭 Trabalho atualmente no DNOCS
 - 🌱 Aprendendo agora Javascript avançado
 - 🤔 Estou colaborando e aprendendo em alguns grupos do Facebook
-- ⚡ Gosto muito de seres humanos, programação, servidores linux, psicologia, filosofia, auto conhecimento e de muitos outros assuntos
 
 ![](riba-ascii.png)
