@@ -13,7 +13,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ribafs&theme=dracula&hide_langs_below=1" />
 </a>
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=ribafs&theme=highcontrast&show_icons=true&count_private=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=ribafs&theme=dark&show_icons=true&count_private=true)
 
 
 - 🔭 Trabalho atualmente no DNOCS
