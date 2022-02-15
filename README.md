@@ -18,5 +18,5 @@
 - 🌱 Aprendendo agora Javascript avançado
 - 🤔 Estou colaborando e aprendendo em alguns grupos do Facebook
 
-![](riba-ascii.png)
-Art ASCII de uma foto minha - https://funny.pho.to/pt/image-to-text-effect/
+![](riba-ascii.jpg)
+Art ASCII criada aqui https://funny.pho.to/pt/image-to-text-effect/
