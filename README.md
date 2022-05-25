@@ -1,7 +1,7 @@
 ## Seja bem vinda(o)! 👋
 
 - 🔭 Trabalho atualmente no DNOCS (Departamento Nacional de Obras Contra as Secas)
-- 🌱 Elaborando um livro sobre o Laravel 9
+- 🌱 Atualmente elaborando um livro sobre o Laravel 9
 - 🤔 Estou colaborando e aprendendo em alguns grupos do Facebook
 - Meu foco é no Back-end com PHP
 - Aprendendo front-end com a intenção de chegar a full-stack
