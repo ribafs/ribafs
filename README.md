@@ -3,7 +3,8 @@
 - 🔭 Trabalho atualmente no DNOCS (Departamento Nacional de Obras Contra as Secas)
 - 🌱 Elaborando um livro sobre o Laravel 9
 - 🤔 Estou colaborando e aprendendo em alguns grupos do Facebook
-- Foco no Backend com PHP
+- Meu foco é no Back-end com PHP
+- Aprendendo front-end com a intenção de chegar a full-stack
 - Compartilhando reflexões/informações diversas no blog: https://ribamar.net.br/portal/blog
 - Apaixonado por programação e servidores
 - Atualmente compartilho praticamente tudo que aprendo e descubro por aqui. Veja que existe uma boa quantidade de repositórios. :)
