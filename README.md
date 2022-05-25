@@ -8,8 +8,9 @@
 - Começando a compartilhando reflexões/informações no blog: https://ribamar.net.br/portal/blog (está no início)
 - Apaixonado por programação e servidores
 - Atualmente compartilho praticamente tudo que aprendo e descubro por aqui. Veja que existe uma boa quantidade de repositórios. :)
+<pre>
 
 
-
+</pre>
 <img src="riba-ascii.jpg" width="50%"/><br>
 Art ASCII criada aqui https://funny.pho.to/pt/image-to-text-effect/
