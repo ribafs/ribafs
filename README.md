@@ -15,8 +15,4 @@
   
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ribafs&hide_border=true&theme=default"> 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ribafs&layout=compact&langs_count=20&theme=default&link=https://www.github.com/amgauna/">   
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?&username=ribafs&theme=default">
-  
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?&username=ribafs&theme=default">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ribafs&layout=compact&langs_count=20&theme=default&link=https://www.github.com/ribafs/">
