@@ -8,3 +8,15 @@
 - Começando a compartilhar reflexões/informações no blog: https://ribamar.net.br/portal/blog (está no início)
 - Apaixonado por programação e servidores, TI e assuntos inteligentes em geral
 - Atualmente compartilho praticamente tudo que aprendo e descubro por aqui por esta maravilhosa plataforma. Veja que existe uma boa quantidade de repositórios. :)
+
+⭐⭐⭐ Github Top Languages Statistics:
+
+<img src="https://github-readme-stats.vercel.app/api/?&username=ribafs&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=default">
+  
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ribafs&hide_border=true&theme=default"> 
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ribafs&layout=compact&langs_count=20&theme=default&link=https://www.github.com/amgauna/">   
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?&username=ribafs&theme=default">
+  
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?&username=ribafs&theme=default">
