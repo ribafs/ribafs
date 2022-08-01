@@ -19,5 +19,5 @@
 <a href="https://www.linkedin.com/in/ribafs/"> ![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?style=for-the-badge&logo=Linkedin&logoColor=white)</a>
 <a href="https://medium.com/@ribafs"> ![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)</a>
 <a href="https://stackoverflow.com/users/2373624/ribamar-fs">![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)</a>
-<a href="https://medium.com/@ribafs"> ![Github](https://img.shields.io/github/followers/ribafs?style=social)
+<a href="https://github.com/ribafs"> ![Github](https://img.shields.io/github/followers/ribafs?style=social)
 ---  
