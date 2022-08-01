@@ -9,8 +9,6 @@
 - Apaixonado por programação e servidores, TI e assuntos inteligentes em geral
 - Atualmente compartilho praticamente tudo que aprendo e descubro por aqui por esta maravilhosa plataforma. Veja que existe uma boa quantidade de repositórios. :)
 
-⭐⭐⭐ Github Top Languages Statistics:
-
 <img src="https://github-readme-stats.vercel.app/api/?&username=ribafs&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=default">
   
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ribafs&hide_border=true&theme=default"> 
