@@ -11,4 +11,3 @@
 
 <img src="https://github-readme-stats.vercel.app/api/?&username=ribafs&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=default">
   
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ribafs&hide_border=true&theme=default"> 
