@@ -87,6 +87,8 @@ https://ribafs.github.io/primeiro-site/ - em HTML (nada de CSS ou jS, pois não 
 ## Recursos Gratuitos para TI
 [Gratuitos](https://github.com/ribafs/gratuitos)
 
+<hr>
+
 🏠 Minhas Redes Sociais: <br />
 
 <a href="https://www.facebook.com/ribamar.fs/"> ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)</a>
