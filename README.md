@@ -1,20 +1,93 @@
-![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
+# Ribamar FS
 
-## Seja bem vinda(o)! 👋
+## Formação educacional
 
-- Trabalho atualmente no DNOCS (Departamento Nacional de Obras Contra as Secas)
-- Elaborando um livro sobre PHP Orientado a Objetos
-- Participo ativamente de alguns grupos no Facebook
-- Meu foco atual é no Back-end com PHP, mas estou de olho também no Node
-- Aprendendo front-end com a intenção de chegar a full-stack
-- Começando a compartilhar reflexões/informações no blog: https://ribamar.net.br/portal/blog (está no início)
-- Apaixonado por programação e servidores, TI e assuntos inteligentes em geral
-- Atualmente compartilho praticamente tudo que aprendo e descubro por aqui por esta maravilhosa plataforma. Veja que existe uma boa quantidade de repositórios. :)
-- Estudando Ruby por conta do Rails (https://ribamar.net.br/portal/back-end/rails-start)
-- Estudando ReactJS e já de olho no NestJS 
+Engenheiro civil com especialização em irrigação e drenagem. Curso abandonado por conta da paixão pela informática.
 
-<img src="https://github-readme-stats.vercel.app/api/?&username=ribafs&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=default">
-  
+## Trabalho atual
+Programador web no DNOCS há mais de 20 anos
+
+## Compartilhando conhecimento
+Gosto muito de compartilhar conhecimento - tanto que já existem mais de 800 repositórios aqui na minha conta do Github, entre estes 136 foram criados por mim e alguns dos forks eu customizei/corrigi ou traduzi.
+
+## Primeiro site
+https://ribafs.github.io/primeiro-site/ - em HTML (nada de CSS ou jS, pois não sabia), criado em 1998
+
+## Gosto muito de:
+- Filosofia
+- Psicologia
+- Auto-conhecimento
+- Seres humanos
+- Computadores
+
+## Preferências:
+- Sistema operacional - Linux (Mint)
+- Linguagem - PHP
+- SGBD - PostgreSQL
+- Framework CSS/JS - Bootstrap
+- Framework PHP - Laravel
+- CMS - Joomla
+- Build mobile - Monaca (aplicativos híbridos, https://monaca.io/)
+- Editor de Código - Xed e VSCode
+- Rede social - Github e Facebook
+- Pacote Office - LibreOffice
+- Navegador Firefox e Chrome
+- Editor de imagens - Kolourpaint
+- Git com Github Desktop
+
+## Grupos dos quais participo no Facebook
+- PHP
+- PHP Developers Group
+- PHP Brasil
+- Laravel Brasil
+- Javascript Brasil
+- NodeJS Brasil
+- Clube dos Programadores
+- Comunity Dev Angola
+- Desenvolvedores & Programadores (Web, Mobile, Games), Devops BR
+- Redes e Servidores Linux
+- Redes e Servidores
+
+## Estudando atualmente
+- APIs e outros
+
+## Pretendo estudar em seguida:
+- TDD, testes unitários
+
+## Últimos 5 repositórios
+- https://github.com/ribafs/micro-framework
+- https://github.com/ribafs/simplest-router
+- https://github.com/ribafs/phpoo-livro
+- https://github.com/ribafs/php-router
+- https://github.com/ribafs/mkdocs-ribafs
+
+## Últimos 5 posts
+- https://ribafs.github.io/backend/php/arrays-multiplos/
+- https://ribafs.github.io/backend/phpoo/mvc/simplest-router/
+- https://ribafs.github.io/backend/phpoo/mvc/micro-framework/
+- https://ribafs.github.io/ferramentas/hosting-free/
+- https://ribafs.github.io/linux/linuxwindows/
+
+## Curiosidades
+- https://github.com/ribafs/matematica
+- https://ribafs.github.io/three.js/examples/webgl_animation_keyframes.html
+
+## Repositórios mais populares
+- https://github.com/ribafs/apostilas
+- https://github.com/ribafs/all-awesomes
+- https://github.com/ribafs/hospedagem-gratis
+- https://github.com/ribafs/laravel-acl
+- https://github.com/ribafs/auto-app
+
+## Glossários de TI
+- https://www.tse.jus.br/comunicacao/glossario-de-ti
+- https://sevenit.com.br/glossario-desmistificando-de-a-z/
+- https://www.opservices.com.br/dicionario-da-ti/
+
+## Recursos Gratuitos para TI
+[Gratuitos](- https://github.com/ribafs/gratuitos)
+
+
 ---
 🏠 Minhas Redes Sociais: <br />
 
