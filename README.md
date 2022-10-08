@@ -89,7 +89,7 @@ https://ribafs.github.io/primeiro-site/ - em HTML (nada de CSS ou jS, pois não 
 
 <hr>
 
-🏠 Minhas Redes Sociais: <br />
+🏠 Redes Sociais: <br />
 
 <a href="https://github.com/ribafs"> ![Github](https://img.shields.io/github/followers/ribafs?style=social)
 <a href="https://www.facebook.com/ribamar.fs/"> ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)</a>
