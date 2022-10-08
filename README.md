@@ -68,6 +68,16 @@ https://ribafs.github.io/primeiro-site/ - em HTML (nada de CSS ou jS, pois não 
 - https://ribafs.github.io/ferramentas/hosting-free/
 - https://ribafs.github.io/linux/linuxwindows/
 
+## Último livro publicado
+
+- https://github.com/ribafs/phpoo-livro (pdf disponível)
+- Outros - https://ribafs.github.io/sobre/livros/
+
+## Última apostila
+
+- https://github.com/ribafs/apostilas/blob/main/backend/laravel/Laravel8Apostila.pdf
+- Outras - https://github.com/ribafs/apostilas
+
 ## Repositórios com curiosidades
 - https://github.com/ribafs/matematica
 - https://ribafs.github.io/three.js/examples/webgl_animation_keyframes.html
