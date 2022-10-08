@@ -7,7 +7,7 @@ Engenheiro civil com especialização em irrigação e drenagem. Curso abandonad
 ## Trabalho atual
 Programador web no DNOCS há mais de 20 anos
 
-## Compartilhando conhecimento
+## Compartilhando
 Gosto muito de compartilhar conhecimento - tanto que já existem mais de 800 repositórios aqui na minha conta do Github, entre estes 136 foram criados por mim e alguns dos forks eu customizei/corrigi ou traduzi.
 
 ## Primeiro site
