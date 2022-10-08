@@ -85,7 +85,7 @@ https://ribafs.github.io/primeiro-site/ - em HTML (nada de CSS ou jS, pois não 
 - https://www.opservices.com.br/dicionario-da-ti/
 
 ## Recursos Gratuitos para TI
-[Gratuitos](https://github.com/ribafs/gratuitos)
+[Bons Recursos Gratuitos para TI](https://github.com/ribafs/gratuitos)
 
 <hr>
 
