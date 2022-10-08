@@ -54,7 +54,7 @@ https://ribafs.github.io/primeiro-site/ - em HTML (nada de CSS ou jS, pois não 
 ## Pretendo estudar em seguida:
 - TDD, testes unitários
 
-## Últimos 5 repositórios
+## Últimos 5 repositórios criados
 - https://github.com/ribafs/micro-framework
 - https://github.com/ribafs/simplest-router
 - https://github.com/ribafs/phpoo-livro
@@ -68,7 +68,7 @@ https://ribafs.github.io/primeiro-site/ - em HTML (nada de CSS ou jS, pois não 
 - https://ribafs.github.io/ferramentas/hosting-free/
 - https://ribafs.github.io/linux/linuxwindows/
 
-## Curiosidades
+## Repositórios com curiosidades
 - https://github.com/ribafs/matematica
 - https://ribafs.github.io/three.js/examples/webgl_animation_keyframes.html
 
@@ -87,8 +87,6 @@ https://ribafs.github.io/primeiro-site/ - em HTML (nada de CSS ou jS, pois não 
 ## Recursos Gratuitos para TI
 [Gratuitos](https://github.com/ribafs/gratuitos)
 
-
----
 🏠 Minhas Redes Sociais: <br />
 
 <a href="https://www.facebook.com/ribamar.fs/"> ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)</a>
@@ -97,4 +95,3 @@ https://ribafs.github.io/primeiro-site/ - em HTML (nada de CSS ou jS, pois não 
 <a href="https://medium.com/@ribafs"> ![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)</a>
 <a href="https://stackoverflow.com/users/2373624/ribamar-fs">![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)</a>
 <a href="https://github.com/ribafs"> ![Github](https://img.shields.io/github/followers/ribafs?style=social)
----  
