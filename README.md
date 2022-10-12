@@ -66,11 +66,11 @@ Já saiu algo deste estudo: https://ribafs.github.io/backend/framework/laravel/g
 - https://github.com/ribafs/php-router
 
 ## Últimos 5 posts
-- https://ribafs.github.io/backend/php/arrays-multiplos/
+- https://ribafs.github.io/backend/framework/laravel/gerador-laravel/
+- https://ribafs.github.io/backend/framework/laravel/migrations-seeders/
 - https://ribafs.github.io/backend/phpoo/mvc/simplest-router/
 - https://ribafs.github.io/backend/phpoo/mvc/micro-framework/
 - https://ribafs.github.io/ferramentas/hosting-free/
-- https://ribafs.github.io/linux/linuxwindows/
 
 ## Último livro publicado
 
@@ -90,8 +90,8 @@ Já saiu algo deste estudo: https://ribafs.github.io/backend/framework/laravel/g
 - https://github.com/ribafs/apostilas
 - https://github.com/ribafs/all-awesomes
 - https://github.com/ribafs/hospedagem-gratis
-- https://github.com/ribafs/laravel-acl
 - https://github.com/ribafs/auto-app
+- https://github.com/ribafs/aplicativos-php
 
 ## Glossários de TI
 - https://www.tse.jus.br/comunicacao/glossario-de-ti
