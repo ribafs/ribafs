@@ -37,7 +37,7 @@ Não obrigatoriamente nessa ordem.
 - Editor de imagens - Kolourpaint
 - Git com Github Desktop
 
-## Grupos dos quais participo no Facebook
+## Alguns grupos dos quais participo no Facebook
 - PHP
 - PHP Developers Group
 - PHP Brasil
