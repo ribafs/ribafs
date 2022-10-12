@@ -19,7 +19,8 @@ https://ribafs.github.io/primeiro-site/ - em HTML (nada de CSS ou jS, pois não 
 - Auto-conhecimento
 - Seres humanos
 - Computadores
-N
+
+Não obrigatoriamente nessa ordem.
 
 ## Preferências:
 - Sistema operacional - Linux (Mint)
