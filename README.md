@@ -53,15 +53,17 @@ Não obrigatoriamente nessa ordem.
 ## Estudando atualmente
 - APIs e outros
 
+Já saiu algo deste estudo: https://ribafs.github.io/backend/framework/laravel/gerador-laravel/
+
 ## Pretendo estudar em seguida:
-- TDD, testes unitários
+- TDD, testes unitários para PHP e JS
 
 ## Últimos 5 repositórios criados
+- https://github.com/ribafs/crud-generator-appzcoder (fork melhorado)
 - https://github.com/ribafs/micro-framework
 - https://github.com/ribafs/simplest-router
 - https://github.com/ribafs/phpoo-livro
 - https://github.com/ribafs/php-router
-- https://github.com/ribafs/mkdocs-ribafs
 
 ## Últimos 5 posts
 - https://ribafs.github.io/backend/php/arrays-multiplos/
