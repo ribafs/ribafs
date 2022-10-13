@@ -34,7 +34,7 @@ Não obrigatoriamente nessa ordem.
 - Redes sociais<br>
   <img width="30" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png"> Github<br>
   <img width="30" src="facebook.png"> Facebook
-- Pacote Office - LibreOffice
+- <img width="30" src="libreoffice.png"> Pacote Office - LibreOffice
 - Navegador Firefox e Chrome
 - Editor de imagens - Kolourpaint
 - Git com Github Desktop
