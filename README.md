@@ -74,7 +74,7 @@ Já saiu algo deste estudo: https://ribafs.github.io/backend/framework/laravel/g
 - https://ribafs.github.io/backend/framework/laravel/migrations-seeders/
 - https://ribafs.github.io/backend/phpoo/mvc/simplest-router/
 - https://ribafs.github.io/backend/phpoo/mvc/micro-framework/
-- https://ribafs.github.io/ferramentas/hosting-free/
+- https://ribafs.github.io/ferramentas/hosting-free/<br>
 Outros: https://ribafs.github.io
 
 ## Último livro publicado
