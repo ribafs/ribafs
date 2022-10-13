@@ -1,5 +1,7 @@
 # Ribamar FS
 
+<img width="30" src="https://user-images.githubusercontent.com/25181517/183570228-6a040b9f-3ddf-47a2-a201-743121dac664.png">
+
 ## Formação educacional
 
 Engenheiro civil com especialização em irrigação e drenagem. Curso abandonado por conta da paixão pela informática.
