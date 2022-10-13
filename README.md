@@ -25,7 +25,7 @@ Não obrigatoriamente nessa ordem.
 ## Preferências:
 - <img width="30" src="https://user-images.githubusercontent.com/25181517/186884159-4b5e122b-95de-4a32-b10b-7f6fdffa4c5a.png"> Sistema operacional - Linux (Mint)
 - <img width="30" src="https://user-images.githubusercontent.com/25181517/183570228-6a040b9f-3ddf-47a2-a201-743121dac664.png"> Linguagem - PHP
-- SGBD - PostgreSQL
+- <img width="30" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png"> SGBD - PostgreSQL
 - Framework CSS/JS - Bootstrap
 - Framework PHP - Laravel
 - CMS - Joomla
