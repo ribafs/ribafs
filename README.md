@@ -36,7 +36,7 @@ Não obrigatoriamente nessa ordem.
   <img width="30" src="facebook.png"> Facebook
 - <img width="30" src="libreoffice.png"> Pacote Office - LibreOffice
 - <img width="30" src="firefox.jpg"> Navegador - Firefox
-- Editor de imagens - Kolourpaint
+- <img height="50" src="kolourpaint.png"> Editor de imagens - Kolourpaint
 - Git com Github Desktop
 
 ## Alguns grupos dos quais participo no Facebook
