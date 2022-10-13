@@ -28,7 +28,7 @@ Não obrigatoriamente nessa ordem.
 - <img width="30" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png"> SGBD - PostgreSQL
 - <img width="30" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png"> Framework CSS/JS - Bootstrap
 - <img width="30" src="laravel.svg"> Framework PHP - Laravel
-- CMS - Joomla
+- <img width="30" src="joomla.png"> CMS - Joomla
 - Build mobile - Monaca (aplicativos híbridos, https://monaca.io/)
 - Editor de Código - Xed e VSCode
 - Rede social - Github e Facebook
