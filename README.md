@@ -26,7 +26,7 @@ Não obrigatoriamente nessa ordem.
 - <img width="30" src="https://user-images.githubusercontent.com/25181517/186884159-4b5e122b-95de-4a32-b10b-7f6fdffa4c5a.png"> Sistema operacional - Linux (Mint)
 - <img width="30" src="https://user-images.githubusercontent.com/25181517/183570228-6a040b9f-3ddf-47a2-a201-743121dac664.png"> Linguagem - PHP
 - <img width="30" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png"> SGBD - PostgreSQL
-- <img width="30" src="[https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png](https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png)"> Framework CSS/JS - Bootstrap
+- <img width="30" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png"> Framework CSS/JS - Bootstrap
 - Framework PHP - Laravel
 - CMS - Joomla
 - Build mobile - Monaca (aplicativos híbridos, https://monaca.io/)
