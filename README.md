@@ -30,7 +30,7 @@ Não obrigatoriamente nessa ordem.
 - <img width="30" src="laravel.svg"> Framework PHP - Laravel
 - <img width="30" src="joomla.png"> CMS - Joomla
 - <img width="30" src="monaca.png"> Build mobile - Monaca (aplicativos híbridos, https://monaca.io/)
-- <img width="30" src="[joomla.png](https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png)"> Editor de Código - Xed e VSCode
+- <img width="30" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png"> Editor de Código - Xed e VSCode
 - Rede social - Github e Facebook
 - Pacote Office - LibreOffice
 - Navegador Firefox e Chrome
