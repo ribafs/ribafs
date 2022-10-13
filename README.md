@@ -24,7 +24,7 @@ Não obrigatoriamente nessa ordem.
 
 ## Preferências:
 - Sistema operacional - Linux (Mint)
-- Linguagem - PHP -  <img align="center" alt="PhP" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
+- Linguagem - <a href="https://www.flaticon.com/free-icons/php" title="php icons">PHP</a>
 - SGBD - PostgreSQL
 - Framework CSS/JS - Bootstrap
 - Framework PHP - Laravel
