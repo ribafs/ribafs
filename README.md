@@ -23,8 +23,8 @@ https://ribafs.github.io/primeiro-site/ - em HTML (nada de CSS ou jS, pois não 
 Não obrigatoriamente nessa ordem.
 
 ## Preferências:
-- Sistema operacional - Linux (Mint)
-- Linguagem - <img width="30" src="https://user-images.githubusercontent.com/25181517/183570228-6a040b9f-3ddf-47a2-a201-743121dac664.png">
+- Sistema operacional - Linux (Mint) <img width="30" src="https://user-images.githubusercontent.com/25181517/186884159-4b5e122b-95de-4a32-b10b-7f6fdffa4c5a.png">
+- Linguagem - PHP <img width="30" src="https://user-images.githubusercontent.com/25181517/183570228-6a040b9f-3ddf-47a2-a201-743121dac664.png">
 - SGBD - PostgreSQL
 - Framework CSS/JS - Bootstrap
 - Framework PHP - Laravel
