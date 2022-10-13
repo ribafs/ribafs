@@ -36,8 +36,8 @@ Não obrigatoriamente nessa ordem.
   <img width="30" src="facebook.png"> Facebook
 - <img width="30" src="libreoffice.png"> Pacote Office - LibreOffice
 - <img width="30" src="firefox.jpg"> Navegador - Firefox
-- <img height="50" src="kolourpaint.png"> Editor de imagens - Kolourpaint
-- <img src="https://github.com/ribafs/profile-technology-icons/blob/main/githubdesktop.png"> Git com Github Desktop
+- <img width="30" src="kolourpaint.png"> Editor de imagens - Kolourpaint
+- <img width="30" src="https://github.com/ribafs/profile-technology-icons/blob/main/githubdesktop.png"> Git com Github Desktop
 
 ## Alguns grupos dos quais participo no Facebook
 - PHP
