@@ -1,6 +1,6 @@
 # Ribamar FS
 
-<img width="30" src="https://user-images.githubusercontent.com/25181517/183570228-6a040b9f-3ddf-47a2-a201-743121dac664.png">
+<img width="30" src="![riba-ascii](https://user-images.githubusercontent.com/855200/195633065-554dc0f6-66e2-4552-bae5-b8e533b32644.jpg)">
 
 ## Formação educacional
 
