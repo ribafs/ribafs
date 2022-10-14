@@ -10,7 +10,7 @@ Engenheiro civil com especialização em irrigação e drenagem. Curso abandonad
 Programador web no DNOCS há mais de 20 anos
 
 ## Compartilhando
-Gosto muito de compartilhar conhecimento. Já existem quase 900 repositórios aqui na minha conta do Github, sendo 137 (14/10/2022) criados por mim e alguns dos forks eu customizei/corrigi ou traduzi. Sendo bem sincero, primeiro crio para mim e depois compartilho.
+Gosto muito de compartilhar conhecimento. Já existem quase 900 repositórios aqui na minha conta do Github, sendo 137 (14/10/2022, 18:39) criados por mim e alguns dos forks eu customizei/corrigi ou traduzi. Sendo bem sincero, primeiro crio para mim e depois compartilho.
 
 ## Primeiro site
 https://ribafs.github.io/primeiro-site/ - em HTML (nada de CSS ou jS, pois não sabia), criado em 1998
