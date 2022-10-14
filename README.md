@@ -62,12 +62,12 @@ Já saiu algo deste estudo: https://ribafs.github.io/backend/framework/laravel/g
 ## Pretendo estudar em seguida:
 - TDD, testes unitários para PHP e JS
 
-## Últimos 5 repositórios criados
+## Últimos 5 repositórios criados/forks
+- https://ribafs.github.io/juros-compostos/ (fork)
 - https://github.com/ribafs/crud-generator-appzcoder (fork melhorado)
 - https://github.com/ribafs/micro-framework
 - https://github.com/ribafs/simplest-router
 - https://github.com/ribafs/phpoo-livro
-- https://github.com/ribafs/php-router
 
 ## Últimos 5 posts
 - https://ribafs.github.io/backend/framework/laravel/gerador-laravel/
