@@ -22,7 +22,7 @@ https://ribafs.github.io/primeiro-site/ - em HTML (nada de CSS ou jS, pois não 
 - Seres humanos
 - Computadores
 
-Não obrigatoriamente nessa ordem.
+Não obrigatoriamente nesta ordem.
 
 ## Preferências:
 - <img width="30" src="https://user-images.githubusercontent.com/25181517/186884159-4b5e122b-95de-4a32-b10b-7f6fdffa4c5a.png"> Sistema operacional - Linux (Mint)
