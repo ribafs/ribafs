@@ -80,7 +80,7 @@ Já saiu algo deste estudo: https://ribafs.github.io/backend/framework/laravel/g
 
 ## Últimos 5 posts
 
-- http://ribamar.net.br (caso demore um pouco, a justificativa )
+- http://ribamar.net.br
 
 ## Último livro publicado
 
