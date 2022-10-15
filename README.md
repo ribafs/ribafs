@@ -116,9 +116,6 @@ Já saiu algo deste estudo: https://ribafs.github.io/backend/framework/laravel/g
 - [Bons Recursos Gratuitos para TI](https://github.com/ribafs/gratuitos)
 
 <hr>
-
-🏠 Redes Sociais: <br />
-
 <a href="https://github.com/ribafs"> ![Github](https://img.shields.io/github/followers/ribafs?style=social)
 <a href="https://www.facebook.com/ribamar.fs/"> ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)</a>
 <a href="https://medium.com/@ribafs"> ![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)</a>
