@@ -39,8 +39,8 @@ Não obrigatoriamente nesta ordem.
 - <img width="30" src="monaca.png"> Build mobile - Monaca (aplicativos híbridos, https://monaca.io/)
 - <img width="30" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png"> Editor de Código - Xed e VSCode
 - Redes sociais<br>
-  <img width="30" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png"> Github<br>
-  <img width="30" src="facebook.png"> Facebook
+  - <img width="30" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png"> Github<br>
+  - <img width="30" src="facebook.png"> Facebook
 - <img width="30" src="libreoffice.png"> Pacote Office - LibreOffice
 - <img width="30" src="firefox.jpg"> Navegador - Firefox
 - <img width="30" src="kolourpaint.png"> Editor de imagens - Kolourpaint
