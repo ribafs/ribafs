@@ -78,7 +78,7 @@ Já saiu algo deste estudo: https://ribafs.github.io/backend/framework/laravel/g
 - https://github.com/ribafs/micro-framework
 - https://github.com/ribafs/simplest-router
 
-## Últimos 5 posts
+## Últimos 4 posts
 
 - http://ribamar.net.br
 
