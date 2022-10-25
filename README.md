@@ -72,11 +72,11 @@ Já saiu algo deste estudo: https://ribafs.github.io/backend/framework/laravel/g
 
 ## Últimos 5 repositórios criados/forks
 
+- https://codepen.io/ribafs/pen/NWzWvQY?editors=1000 (fork excelente)
 - https://github.com/ribafs/github-usercard ()
 - https://github.com/ribafs/LiveChat
 - https://ribafs.github.io/juros-compostos/ (fork)
 - https://github.com/ribafs/crud-generator-appzcoder (fork melhorado)
-- https://github.com/ribafs/micro-framework
 
 ## Últimos 4 posts
 
