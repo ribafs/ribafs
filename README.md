@@ -78,6 +78,10 @@ Já saiu algo deste estudo: https://ribafs.github.io/backend/framework/laravel/g
 - https://ribafs.github.io/juros-compostos/ (fork)
 - https://github.com/ribafs/crud-generator-appzcoder (fork melhorado)
 
+## Índice dos repositórios
+
+https://ribafs.github.io/index
+
 ## Últimos 4 posts
 
 - http://ribamar.net.br
