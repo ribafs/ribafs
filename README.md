@@ -72,12 +72,12 @@ Já saiu algo deste estudo: https://ribafs.github.io/backend/framework/laravel/g
 
 ## Últimos 5 repositórios criados/forks
 
-Obs.: muito material que tinha em meu disco, organizei e criei os 4 repos abaixo
+Obs.: muito material que tinha em meu disco, organizei e criei os repos abaixo
+- https://github.com/ribafs/datatables
 - https://github.com/ribafs/javascript2
 - https://github.com/ribafs/html
 - https://github.com/ribafs/css
 - https://github.com/ribafs/bootstrap
-- https://codepen.io/ribafs/pen/NWzWvQY?editors=1000 (fork excelente)
 
 ## Índice dos repositórios
 
