@@ -62,7 +62,7 @@ Não obrigatoriamente nesta ordem.
 
 ## Estudando atualmente
 
-- APIs, NodeJS e outros
+- APIs, DenoJS e mais
 
 Já saiu algo deste estudo: https://ribafs.github.io/backend/framework/laravel/gerador-laravel/
 
