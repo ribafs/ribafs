@@ -72,11 +72,11 @@ Já saiu algo deste estudo: https://ribafs.github.io/backend/framework/laravel/g
 
 ## Últimos 5 repositórios criados/forks
 
+- https://github.com/ribafs/markdown
+- https://github.com/ribafs/nodejs
 - https://github.com/ribafs/api 
 - https://github.com/ribafs/ajax
 - https://github.com/ribafs/grid-editable
-- https://ribafs.github.io/blog
-- https://github.com/ribafs/bootstrap
 
 ## Índice dos repositórios
 
