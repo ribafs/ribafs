@@ -72,7 +72,7 @@ Já saiu algo deste estudo: https://ribafs.github.io/backend/framework/laravel/g
 
 ## Últimos 5 repositórios criados/forks
 
-- https://github.com/ribafs/javascript (muito conte)
+- https://github.com/ribafs/javascript (muito conteúdo, com foco em jogos)
 - https://github.com/ribafs/estoque
 - https://github.com/ribafs/markdown
 - https://github.com/ribafs/nodejs
