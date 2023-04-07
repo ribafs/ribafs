@@ -72,11 +72,11 @@ Já saiu algo deste estudo: https://ribafs.github.io/backend/framework/laravel/g
 
 ## Últimos 5 repositórios criados/forks
 
+- https://ribafs.github.io/portfolio/
 - Não é repo, mas livros de Laravel: http://ribamar.net.br/livro/
 - https://github.com/ribafs/docker
 - https://github.com/ribafs/gdevelop (Engine para criação de jogos no-code muito boa)
 - https://github.com/ribafs/pixel-art-editor - https://ribafs.github.io/pixel-art-editor/ (online)
-- https://github.com/ribafs/javascript (muito conteúdo, com foco na criação de jogos)   
 
 ## Índice dos repositórios
 
