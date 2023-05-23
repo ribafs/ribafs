@@ -12,7 +12,7 @@ Programador web no DNOCS há mais de 20 anos
 
 ## Compartilhando
 
-Gosto muito de compartilhar conhecimento. Já existem quase 900 repositórios aqui na minha conta do Github, sendo 137 (14/10/2022, 18:39) criados por mim e alguns dos forks eu customizei/corrigi ou traduzi. Sendo bem sincero, primeiro crio para mim e depois compartilho.
+Gosto muito de compartilhar conhecimento. Já existem 1.1k (até hoje) repositórios aqui na minha conta do Github, 
 
 ## Gosto muito de:
 
