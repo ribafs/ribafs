@@ -14,10 +14,6 @@ Programador web no DNOCS há mais de 20 anos
 
 Gosto muito de compartilhar conhecimento. Já existem quase 900 repositórios aqui na minha conta do Github, sendo 137 (14/10/2022, 18:39) criados por mim e alguns dos forks eu customizei/corrigi ou traduzi. Sendo bem sincero, primeiro crio para mim e depois compartilho.
 
-## Primeiro site
-
-https://ribafs.github.io/primeiro-site/ - em HTML (nada de CSS ou jS, pois não sabia), criado em 1998
-
 ## Gosto muito de:
 
 - Filosofia
@@ -48,27 +44,15 @@ Não obrigatoriamente nesta ordem.
 
 ## Alguns grupos dos quais participo no Facebook
 
-- PHP
-- PHP Developers Group
 - PHP Brasil
 - Laravel Brasil
-- Javascript Brasil
-- NodeJS Brasil
 - Clube dos Programadores
-- Comunity Dev Angola
-- Desenvolvedores & Programadores (Web, Mobile, Games), Devops BR
-- Redes e Servidores Linux
-- Redes e Servidores
 
 ## Estudando atualmente
 
-- APIs, DenoJS e mais
+- Laravel
 
 Já saiu algo deste estudo: https://ribafs.github.io/backend/framework/laravel/gerador-laravel/
-
-## Pretendo estudar em seguida:
-
-- TDD, testes unitários para PHP e JS
 
 ## Últimos 5 repositórios criados/forks
 
