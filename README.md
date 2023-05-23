@@ -4,7 +4,7 @@
 
 ## Formação educacional
 
-Engenheiro civil com especialização em irrigação e drenagem. Curso abandonado por conta da paixão pela informática.
+Engenheiro civil com especialização em irrigação e drenagem. Trabalho e estudo atualmente apenas com informática.
 
 ## Trabalho atual
 
